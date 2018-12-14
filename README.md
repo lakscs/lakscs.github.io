@@ -1,17 +1,28 @@
-# Shapely
+# uButia
+uButia is a free bootstrap template created by freshdesignweb teams. The template includes the complete source files for download such as HTML5, CSS, CSS3 and JavaScript for easy customization. 
+# Theme Demo
+<img src="https://github.com/grahambill/ubutia/blob/master/ubutia.jpg?raw=true">
+<a href="https://www.freshdesignweb.com/demo/ubutia/">View Demo</a> <a href="https://github.com/grahambill/ubutia/archive/master.zip">Download</a>
 
-## About Shapely
+There are so many awesome bootstrap templates that have created amazing free resources using Bootstrap. Those free download resources wanted to help spread the word and share their work with our readers. So, we compiled a list of free frontend templates that we thought are beautiful and worth sharing. 
 
-Shapely is a powerful and versatile one page WordPress theme with pixel perfect design and outstanding functionality. It is by far the most advanced free WordPress theme available today with loads of unmatched customization options. This theme comes with several homepage widgets that can be used to add portfolio, testimonials, parallax sections, your product or service information, call for action and much more.
+# Scripts included:
+<ul>
+<li>Bootstrap Framework</li>
+<li>Font Awesome</li>
+<li>jQuery Magnific Popup</li>
+<li>Carousel jQuery</li>
+<li>Validator - HTML5 </li>
+</ul>
+# Other templates and useful resources
+<ul>
+<li> <a href="https://www.freshdesignweb.com/free-bootstrap-admin-templates/">Free Bootstrap Admin Templates</a>  List of the best Free Bootstrap admin templates that are available for download for personal and commercial use.</li>
+<li><a href="https://www.freshdesignweb.com/free-html5-css3-templates/">Free HTML5 Website Templates</a></li>  Long list of the best free HTML5 Website templates.And it is available for personal and commercial use.
+<li><a href="https://www.freshdesignweb.com/free-responsive-wordpress-themes/">Free Responsive WordPress Themes</a></li>  Long list of the best free WordPress themes that are all licensed under GPL and are available for personal and commercial use without restrictions.
+<li><a href="https://www.freshdesignweb.com/free-blogger-templates/">Free Blogger Templates</a></li>  Long list of the best free Blogger templates that are all licensed under GPL and are available for personal and commercial use.
+</ul>
 
-Shapely supports most free and premium WordPress plugins such as WooCommerce, Jetpack, Gravity Forms, Contact Form 7, Yoast SEO, Google Analytics by Yoast and much more.
+# License information
+uButia is licensed under The MIT License (MIT). Which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software. But you always need to state that freshDesignweb is the original author of this template.
 
-This theme is the best suited for business, landing page, portfolio, ecommerce, store, local business,  personal websites but can be tweaked to be used as blog, magazine or any other awesome website while highlighting its unique one page setup. This is going to be the last WordPress theme you will ever want to use because it is so much better than anything you have seen. We promise.
-
-## Documentation
-
-Theme documentation available [here](https://colorlib.com/wp/themes/shapely/).
-
-## License
-
-This theme is licensed under GPLv3. You can feel free to modify it as loon gas you keep the original copyright information.
+Project is developed and maintained by <a href="https://www.freshdesignweb.com/">freshDesignweb</a>
